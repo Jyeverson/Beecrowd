@@ -1,7 +1,7 @@
 package iniciante;
 import java.util.Scanner;
 
-public class Ball_1011 {
+public class Esfera_1011 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
