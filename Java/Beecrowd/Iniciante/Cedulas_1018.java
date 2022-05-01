@@ -10,7 +10,6 @@ Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo n
  Não esqueça de imprimir o fim de linha após cada linha, caso contrário seu programa apresentará a mensagem: “Presentation Error”.
  */
 
-package iniciante;
 import java.util.Scanner;
 public class Cedulas_1018 {
 

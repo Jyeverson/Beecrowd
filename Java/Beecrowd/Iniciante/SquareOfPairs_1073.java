@@ -1,4 +1,3 @@
-package iniciante;
 import java.util.Scanner;
 public class SquareOfPairs_1073 {
     public static void main(String[] args) {

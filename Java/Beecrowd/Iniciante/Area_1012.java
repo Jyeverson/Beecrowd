@@ -15,7 +15,6 @@ O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a u
 
 */
 
-package iniciante;
 import java.util.Scanner;
 
 public class Area_1012 {

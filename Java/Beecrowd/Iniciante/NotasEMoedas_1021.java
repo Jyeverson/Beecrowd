@@ -13,7 +13,6 @@ Imprima a quantidade mínima de notas e moedas necessárias para trocar o valor 
 Obs: Utilize ponto (.) para separar a parte decimal.
 */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

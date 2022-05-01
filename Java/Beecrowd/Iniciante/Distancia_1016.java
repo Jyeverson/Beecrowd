@@ -10,7 +10,6 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
  em branco antes e depois da igualdade.
  */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

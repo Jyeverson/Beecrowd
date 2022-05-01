@@ -1,4 +1,3 @@
-package iniciante;
 import java.util.Arrays;
 import java.util.Scanner;
 

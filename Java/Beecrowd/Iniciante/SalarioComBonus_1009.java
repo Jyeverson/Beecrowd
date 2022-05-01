@@ -10,7 +10,6 @@ Saída
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
  */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

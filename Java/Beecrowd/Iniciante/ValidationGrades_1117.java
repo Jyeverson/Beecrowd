@@ -1,4 +1,3 @@
-package iniciante;
 import java.util.Scanner;
 
 public class ValidationGrades_1117 {

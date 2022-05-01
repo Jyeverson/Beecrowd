@@ -1,4 +1,3 @@
-package iniciante;
 public class PairNumbers_1059 {
     public static void main(String[] args) {
         int a = 1;

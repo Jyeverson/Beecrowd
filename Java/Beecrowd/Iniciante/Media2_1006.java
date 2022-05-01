@@ -12,7 +12,6 @@ Imprima a mensagem "MEDIA" e a m√©dia do aluno conforme exemplo abaixo, com 1 d√
  
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class Media2_1006 {

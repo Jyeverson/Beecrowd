@@ -9,7 +9,6 @@ Saída
 Apresente a duração do jogo conforme exemplo abaixo.
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class TempoDeJogo_1046 {

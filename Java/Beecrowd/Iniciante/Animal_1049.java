@@ -11,7 +11,6 @@ Imprima o nome do animal correspondente à entrada fornecida.
 
 */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

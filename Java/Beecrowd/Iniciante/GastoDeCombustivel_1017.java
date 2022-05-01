@@ -13,7 +13,6 @@ Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class GastoDeCombustivel_1017 {

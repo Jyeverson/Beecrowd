@@ -9,7 +9,6 @@ Saída
 Imprima por extenso o nome do mês correspondente ao número existente na entrada, com a primeira letra em maiúscula.
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class Mes_1052 {

@@ -11,7 +11,6 @@ Saída
 Para cada caso, imprima quantos números estão dentro (in) e quantos valores estão fora (out) do intervalo.
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class Intervalo2_1072 {

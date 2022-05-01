@@ -13,7 +13,6 @@ Para cada caso, imprima uma mensagem correspondente, de acordo com o exemplo aba
 Todas as letras deverão ser maiúsculas e sempre deverá haver um espaço entre duas palavras impressas na mesma linha.
  */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

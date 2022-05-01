@@ -11,7 +11,6 @@ Saída
 Para cada valor lido mostre a mensagem correspondente à descrição do problema.
  */
 
-package iniciante;
 import java.util.Scanner;
 public class SenhaFixa_1114 {
     public static void main(String[] args) {

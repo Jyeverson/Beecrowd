@@ -13,7 +13,6 @@ Imprima a saída conforme exemplo fornecido.
  
  */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

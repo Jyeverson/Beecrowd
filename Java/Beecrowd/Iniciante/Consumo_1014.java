@@ -10,7 +10,6 @@ Saída
 Apresente o valor que representa o consumo médio do automóvel com 3 casas após a vírgula, seguido da mensagem "km/l".
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class Consumo_1014 {

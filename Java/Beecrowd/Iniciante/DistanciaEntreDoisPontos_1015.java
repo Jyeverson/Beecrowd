@@ -12,7 +12,6 @@ Saída
 Calcule e imprima o valor da distância segundo a fórmula fornecida, com 4 casas após o ponto decimal.
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class DistanciaEntreDoisPontos_1015 {

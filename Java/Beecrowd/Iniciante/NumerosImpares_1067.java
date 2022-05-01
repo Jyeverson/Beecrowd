@@ -9,7 +9,6 @@ Saída
 Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
 */
 
-package iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 

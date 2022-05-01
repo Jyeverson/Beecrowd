@@ -12,7 +12,6 @@ Utilize variáveis de dupla precisão (double). Como todos os problemas, não es
 caso contrário, você receberá "Presentation Error".
  */
 
-package iniciante;
 import java.util.Scanner;
 
 public class AreaDoCirculo_1002 {

@@ -9,7 +9,6 @@ Saída
 A saída deve conter uma das mensagens conforme descrito acima.
  */
 
-package iniciante;
 import java.util.Scanner;
 
 import java.util.Scanner;

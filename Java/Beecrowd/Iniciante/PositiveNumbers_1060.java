@@ -1,4 +1,3 @@
-package iniciante;
 import java.util.Scanner;
 public class PositiveNumbers_1060 {
     public static void main(String[] args) {

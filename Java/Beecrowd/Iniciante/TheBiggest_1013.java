@@ -1,4 +1,3 @@
-package iniciante;
 import java.util.Scanner;
 
 public class TheBiggest_1013 {
