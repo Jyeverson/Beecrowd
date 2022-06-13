@@ -26,5 +26,6 @@ public class Intervalo2_1072 {
         }
     System.out.println(in + " in");
     System.out.println(out + " out");
+    sc.close();
     }
 }

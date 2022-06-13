@@ -33,5 +33,6 @@ public class SalaryIncrease_1048 {
         System.out.println("Novo salario: " + df.format(salario));
 		System.out.println("Reajuste ganho: " + df.format(reajuste));
 		System.out.println("Em percentual: " + percentual + " %");
+        sc.close();
     }
 }

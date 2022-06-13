@@ -58,5 +58,6 @@ public class Grenais_1131 {
         } else {
             System.out.println("Gremio venceu mais");
         }
+        sc.close();
     }
 }

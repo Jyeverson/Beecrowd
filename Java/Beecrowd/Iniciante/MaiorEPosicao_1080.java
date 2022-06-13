@@ -27,5 +27,6 @@ public class MaiorEPosicao_1080 {
 		}
 		System.out.println(maior);
 		System.out.println(posMaior);
+		sc.close();
 	}  
 }

@@ -25,5 +25,6 @@ public class SenhaFixa_1114 {
                 System.out.println("Senha Invalida");
             }
         }
+        sc.close();
     }
 }

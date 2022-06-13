@@ -27,5 +27,6 @@ public class RestoDaDivisao_1133 {
                 }
             }
         }
+        sc.close();
     }
 }

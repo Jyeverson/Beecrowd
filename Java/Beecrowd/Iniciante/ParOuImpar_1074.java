@@ -29,6 +29,6 @@ public class ParOuImpar_1074 {
     		else if (x % 2 != 0 && x > 0) System.out.println("ODD POSITIVE");
     		else if (x % 2 != 0 && x < 0) System.out.println("ODD NEGATIVE");
     	}
+		sc.close();
 	}
-	
 }

@@ -31,5 +31,6 @@ public class Quadrante_1115 {
                 i = 1;
             }
         }
+        sc.close();
     }
 }

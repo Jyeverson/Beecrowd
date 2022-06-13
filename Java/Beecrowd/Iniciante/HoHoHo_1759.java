@@ -21,5 +21,6 @@ public class HoHoHo_1759 {
             System.out.print("Ho ");
         }
         System.out.println("Ho!");
+        sc.close();
     }   
 }

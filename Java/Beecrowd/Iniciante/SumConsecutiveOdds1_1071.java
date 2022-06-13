@@ -22,5 +22,6 @@ public class SumConsecutiveOdds1_1071 {
                 }
             }
             System.out.println(sum);
+            sc.close();
     }
 }

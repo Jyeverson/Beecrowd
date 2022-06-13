@@ -53,5 +53,6 @@ public class Media3_1040 {
 			System.out.println("Media final: " + df.format(MEDIA)); } 
 
             else { System.out.println("Aluno reprovado."); }
+		leitor.close();	
 	}
 }

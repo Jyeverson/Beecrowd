@@ -11,7 +11,6 @@ A saída deve conter uma das mensagens conforme descrito acima.
 
 import java.util.Scanner;
 
-import java.util.Scanner;
 public class Multiplos_1044 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

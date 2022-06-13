@@ -22,5 +22,6 @@ public class OddPositiveNegativePairs_1066 {
         System.out.println(positivo+ " valor(es) positivo(s)");
         System.out.println(negativo+ " valor(es) negativo(s)");
 
+        sc.close();
     }
 }

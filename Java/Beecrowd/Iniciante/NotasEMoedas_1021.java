@@ -62,6 +62,6 @@ public class NotasEMoedas_1021 {
         System.out.println(moedas10 + " moeda(s) de R$ 0.10");
         System.out.println(moedas05 + " moeda(s) de R$ 0.05");
         System.out.println(moedas01 + " moeda(s) de R$ 0.01");
+        sc.close();
     }
-	
 }
