@@ -1,5 +1,5 @@
-import java.util.Scanner;
 import java.text.DecimalFormat;
+import java.util.Scanner;
 
 public class SalaryIncrease_1048 {
     public static void main(String[] args) {

@@ -14,8 +14,6 @@ Para cada linha de entrada imprima um único inteiro que denota o
  deslocamento no dobro do tempo fornecido.
 */
 
-package matematica;
-
 import java.util.Scanner;
 
 public class VoltaAFaculdadeDeFisica_1197 {

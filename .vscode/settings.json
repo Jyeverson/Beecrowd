@@ -1,7 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "Java/HackerRank",
-        "Java/Beecrowd/ad-hoc",
-        "Java/Beecrowd/Iniciante"
+        "Java"
     ]
 }
