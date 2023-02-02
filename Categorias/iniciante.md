@@ -87,7 +87,7 @@
 - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1157.java)
 - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1158.java)
 - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1159.java)
-- [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1160.java)
+- [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1160.java)
 - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1164.java)
 - [x]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1165.java)
 - [x]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1172.java)
