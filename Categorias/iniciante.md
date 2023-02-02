@@ -1,8 +1,4 @@
-# Iniciante (322 / 336)
-
-
-
-## Problemas resolvidos
+## Exercicios resolvidos
 
 - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/beecrowd/blob/master/src/1000/1000.poti)
 - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/beecrowd/blob/master/src/1000/1001.poti)
