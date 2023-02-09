@@ -101,7 +101,7 @@
 - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1180.java)
 - [x]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1181.java)
 - [x]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - [Coluna na Matriz](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1182.java)
-- [ ]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Acima da Diagonal Principal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1183.java)
+- [x]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Acima da Diagonal Principal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1183.java)
 - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Abaixo da Diagonal Principal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1184.java)
 - [ ]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - [Acima da Diagonal Secundária](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1185.java)
 - [ ]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - [Abaixo da Diagonal Secundária](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1186.java)
