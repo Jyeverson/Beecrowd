@@ -105,7 +105,7 @@
 - [x]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Abaixo da Diagonal Principal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1184.java)
 - [x]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - [Acima da Diagonal Secundária](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1185.java)
 - [x]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - [Abaixo da Diagonal Secundária](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1186.java)
-- [ ]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Área Superior](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1187.java)
+- [x]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Área Superior](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1187.java)
 - [ ]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1188.java)
 - [ ]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1189.java)
 - [ ]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1190.java)
