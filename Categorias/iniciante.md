@@ -108,7 +108,7 @@
 - [x]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Área Superior](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1187.java)
 - [x]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1188.java)
 - [x]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1189.java)
-- [ ]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1190.java)
+- [x]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1190.java)
 - [ ]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1435.java)
 - [ ]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - [Matriz Quadrada II](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1478.java)
 - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1534.java)
