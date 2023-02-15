@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class _1187 {
+public class _1188 {
 
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class _1187 {
 
         for (int i = 0; i < M.length; i++) {
             for (int j = 0; j < M[i].length; j++) {
-                if (j > i && j < M.length - i - 1) {
+                if (j < i && j > M.length-i-1) {
                     soma += M[i][j];
                 }
             }
