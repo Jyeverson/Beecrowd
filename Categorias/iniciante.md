@@ -111,7 +111,7 @@
 - [x]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1190.java)
 - [x]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1435.java)
 - [x]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - [Matriz Quadrada II](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1478.java)
-- [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1534.java)
+- [x]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1534.java)
 - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1541.java)
 - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1557.java)
 - [ ]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1564.java)
