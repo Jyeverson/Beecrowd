@@ -156,7 +156,7 @@
 - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2139.java)
 - [ ]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2140.java)
 - [ ]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2143.java)
-- [ ]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2146.java)
+- [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2146.java)
 - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2147.java)
 - [ ]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2152.java)
 - [ ]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2159.java)
