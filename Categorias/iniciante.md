@@ -117,7 +117,7 @@
 - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1564.java)
 - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1589.java)
 - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1759.java)
-- [ ]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1789.java)
+- [x]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1789.java)
 - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - [Matriz Quadrada IV](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1827.java)
 - [ ]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1828.java)
 - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1837.java)
