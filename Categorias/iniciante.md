@@ -122,7 +122,7 @@
 - [ ]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1828.java)
 - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1837.java)
 - [ ]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1847.java)
-- [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1848.java)
+- [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1848.java)
 - [ ]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1858.java)
 - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1864.java)
 - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1865.java)
