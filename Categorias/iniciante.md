@@ -257,7 +257,7 @@
 - [ ]  [2823](https://www.beecrowd.com.br/judge/pt/problems/view/2823) - [Eearliest Deadline First](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2823.java)
 - [ ]  [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2826.java)
 - [ ]  [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2845.java)
-- [ ]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - [Fibonot](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2846.java)
+- [x]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - [Fibonot](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2846.java)
 - [ ]  [2850](https://www.beecrowd.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2850.java)
 - [ ]  [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - [Troca de Mensagens](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2852.java)
 - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/Jyeverson/Beecrowd/blob/main/src/_2861.java)
