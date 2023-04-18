@@ -1,61 +1,48 @@
 import java.util.Scanner;
 
 public class _3053 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); 
-        int N = sc.nextInt();
-        int jogadas = 0;
-        String copo = sc.next();
-        int[] posicaoCopo = posicao(copo);
-
-        for(int i = 0; i < N; i++){
-            jogadas = sc.nextInt();
-            int valueT = posicaoCopo[0];
-            if(jogadas == 1){
-                posicaoCopo[0] =  posicaoCopo[1];
-                posicaoCopo[1] = valueT;
-            }
-            if(jogadas == 2){
-                valueT = posicaoCopo[1];
-                posicaoCopo[1] =  posicaoCopo[2];
-                posicaoCopo[2] = valueT;
-            }
-            if(jogadas == 3){
-                valueT = posicaoCopo[2];
-                posicaoCopo[2] =  posicaoCopo[0];
-                posicaoCopo[0] = valueT;
-            }
-        }
-        if(posicaoCopo[0] == 1){
-            System.out.println("A");
-        } else if(posicaoCopo[1] == 1){
-            System.out.println("B");
-        } else if(posicaoCopo[2] == 1){
-            System.out.println("C");
-        }
-       sc.close();
+    public enum PosicaoCopo {
+        A, B, C
     }
 
-    public static int[] posicao(String copo){
-        int[] posicaoCopo = {0,0,0};
-        switch (copo) {
-            case "A":
-                posicaoCopo[0] = 1;
-                posicaoCopo[1] = 0;
-                posicaoCopo[2] = 0;
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+        PosicaoCopo posicaoCopo = PosicaoCopo.valueOf(sc.next());
+
+        for (int i = 0; i < N; i++) {
+            int jogada = sc.nextInt();
+            posicaoCopo = trocarPosicao(posicaoCopo, jogada);
+        }
+
+        System.out.println(posicaoCopo);
+        sc.close();
+    }
+
+    public static PosicaoCopo trocarPosicao(PosicaoCopo posicaoCopo, int jogada) {
+        switch (posicaoCopo) {
+            case A:
+                if (jogada == 1) {
+                    return PosicaoCopo.B;
+                } else if (jogada == 3) {
+                    return PosicaoCopo.C;
+                }
                 break;
-            case "B":
-                posicaoCopo[0] = 0;
-                posicaoCopo[1] = 1;
-                posicaoCopo[2] = 0;
+            case B:
+                if (jogada == 1) {
+                    return PosicaoCopo.A;
+                } else if (jogada == 2) {
+                    return PosicaoCopo.C;
+                }
                 break;
-            case "C":
-                posicaoCopo[0] = 0;
-                posicaoCopo[1] = 0;
-                posicaoCopo[2] = 1;
+            case C:
+                if (jogada == 2) {
+                    return PosicaoCopo.B;
+                } else if (jogada == 3) {
+                    return PosicaoCopo.A;
+                }
                 break;
         }
         return posicaoCopo;
     }
-
 }
