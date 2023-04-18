@@ -281,7 +281,7 @@
 - [ ]  [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3042.java)
 - [ ]  [3046](https://www.beecrowd.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3046.java)
 - [ ]  [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3047.java)
-- [ ]  [3053](https://www.beecrowd.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3053.java)
+- [x]  [3053](https://www.beecrowd.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3053.java)
 - [ ]  [3055](https://www.beecrowd.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3055.java)
 - [ ]  [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3065.java)
 - [ ]  [3068](https://www.beecrowd.com.br/judge/pt/problems/view/3068) - [Meteoros](https://github.com/Jyeverson/Beecrowd/blob/main/src/_3068.java)
