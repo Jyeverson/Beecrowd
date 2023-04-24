@@ -138,7 +138,7 @@
 - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1960.java)
 - [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1961.java)
 - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1962.java)
-- [ ]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1963.java)
+- [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1963.java)
 - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - [Jornada nas Estrelas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1973.java)
 - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1983.java)
 - [ ]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1984.java)
