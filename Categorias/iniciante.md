@@ -136,7 +136,7 @@
 - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1958.java)
 - [ ]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1959.java)
 - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1960.java)
-- [ ]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1961.java)
+- [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1961.java)
 - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1962.java)
 - [ ]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1963.java)
 - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - [Jornada nas Estrelas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1973.java)
