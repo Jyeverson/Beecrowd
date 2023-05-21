@@ -132,7 +132,7 @@
 - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1929.java)
 - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1930.java)
 - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1933.java)
-- [ ]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1957.java)
+- [x]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1957.java)
 - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1958.java)
 - [ ]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1959.java)
 - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/Jyeverson/Beecrowd/blob/main/src/_1960.java)
